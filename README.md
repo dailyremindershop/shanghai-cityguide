@@ -10,3 +10,6 @@ Notes et photos locales au navigateur, non publiées dans GitHub. Utiliser régu
 
 ## Hors ligne
 Après une première visite en ligne et installation du service worker. Cartes et liens externes nécessitent une connexion.
+
+
+Correctif V4 : virgule manquante dans la liste des adresses corrigée (bloquait l’initialisation JavaScript et affichait 0 adresse). Cache hors ligne actualisé.
