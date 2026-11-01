@@ -1,15 +1,12 @@
-# Shanghai — The City Edit · V4
+# Shanghai — The City Edit · V5 Editorial
 
-PWA GitHub Pages. Publier **tous les fichiers** à la racine du dépôt. Activer Settings > Pages > Deploy from a branch > main > /(root). Ouvrir le site dans Safari puis Partager > Sur l’écran d’accueil.
+Mise à jour de la V4, sans perte des fonctionnalités de carnet, sélection, checklist et export.
 
-## Michelin
-Cinq restaurants Bib Gourmand intégrés avec adresses et catégories budgétaires ¥ / ¥¥. Les prix exacts des plats et les horaires du jour ne sont pas garantis. Les liens des fiches renvoient à une recherche du Guide Michelin.
+## Photos documentaires
+Les photographies sont récupérées depuis les images d'articles Wikipédia correspondants (Wikimedia Commons). Chaque photo de lieu n'est affichée que lorsqu'un article précisément associé à ce lieu est identifié. Aucune image générée ou photographie générique de restaurant n'est présentée comme un établissement réel. Les images sont soumises aux licences et crédits indiqués sur les pages source. Nécessite une connexion pour le premier affichage des images ; les données textuelles restent disponibles hors ligne après mise en cache.
 
-## Confidentialité
-Notes et photos locales au navigateur, non publiées dans GitHub. Utiliser régulièrement Exporter mon carnet.
+## Déploiement
+Décompresser, puis téléverser les six fichiers à la racine de `dailyremindershop/shanghai-cityguide`, en remplaçant les fichiers existants. GitHub Pages : branche `main`, dossier `/ (root)`.
 
-## Hors ligne
-Après une première visite en ligne et installation du service worker. Cartes et liens externes nécessitent une connexion.
-
-
-Correctif V4 : virgule manquante dans la liste des adresses corrigée (bloquait l’initialisation JavaScript et affichait 0 adresse). Cache hors ligne actualisé.
+## Limites
+Les horaires, tarifs, temps de trajet et disponibilités doivent être revérifiés. L'affichage des images dépend de la disponibilité de l'API Wikipédia et de la présence d'une image de page. Ne pas présenter la maquette V5 précédente comme une capture de l'application.
