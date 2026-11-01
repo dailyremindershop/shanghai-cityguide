@@ -1,0 +1,58 @@
+{
+  "The Bund": {
+    "lat": 31.238027777778,
+    "lon": 121.48613888889,
+    "source": "https://www.wikidata.org/wiki/Q125474",
+    "checkedAt": "2026-11-01",
+    "reference": "Wikidata P625, WGS84. Point de repère ; pas entrée ni itinéraire. Vérifié par rapprochement avec la page dédiée au lieu."
+  },
+  "Jing’an Temple": {
+    "lat": 31.225,
+    "lon": 121.44083333333,
+    "source": "https://www.wikidata.org/wiki/Q403189",
+    "checkedAt": "2026-11-01",
+    "reference": "Wikidata P625, WGS84. Point de repère ; pas entrée ni itinéraire. Vérifié par rapprochement avec la page dédiée au lieu."
+  },
+  "Wukang Mansion": {
+    "lat": 31.206272488687574,
+    "lon": 121.43362104133811,
+    "source": "https://www.wikidata.org/wiki/Q11124219",
+    "checkedAt": "2026-11-01",
+    "reference": "Wikidata P625, WGS84. Point de repère ; pas entrée ni itinéraire. Vérifié par rapprochement avec la page dédiée au lieu."
+  },
+  "Yu Garden": {
+    "lat": 31.22916667,
+    "lon": 121.4875,
+    "source": "https://www.wikidata.org/wiki/Q1328025",
+    "checkedAt": "2026-11-01",
+    "reference": "Wikidata P625, WGS84. Point de repère ; pas entrée ni itinéraire. Vérifié par rapprochement avec la page dédiée au lieu."
+  },
+  "Xintiandi": {
+    "lat": 31.2226,
+    "lon": 121.47,
+    "source": "https://www.wikidata.org/wiki/Q1326515",
+    "checkedAt": "2026-11-01",
+    "reference": "Wikidata P625, WGS84. Point de repère ; pas entrée ni itinéraire. Vérifié par rapprochement avec la page dédiée au lieu."
+  },
+  "Oriental Pearl Tower": {
+    "lat": 31.241669444444,
+    "lon": 121.49471666667,
+    "source": "https://www.wikidata.org/wiki/Q223207",
+    "checkedAt": "2026-11-01",
+    "reference": "Wikidata P625, WGS84. Point de repère ; pas entrée ni itinéraire. Vérifié par rapprochement avec la page dédiée au lieu."
+  },
+  "Shanghai Tower": {
+    "lat": 31.2355,
+    "lon": 121.501,
+    "source": "https://www.wikidata.org/wiki/Q18547",
+    "checkedAt": "2026-11-01",
+    "reference": "Wikidata P625, WGS84. Point de repère ; pas entrée ni itinéraire. Vérifié par rapprochement avec la page dédiée au lieu."
+  },
+  "Jade Buddha Temple": {
+    "lat": 31.243333333333,
+    "lon": 121.44027777778,
+    "source": "https://www.wikidata.org/wiki/Q967601",
+    "checkedAt": "2026-11-01",
+    "reference": "Wikidata P625, WGS84. Point de repère ; pas entrée ni itinéraire. Vérifié par rapprochement avec la page dédiée au lieu."
+  }
+}

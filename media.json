@@ -1,0 +1,92 @@
+{
+  "hero": {
+    "file": "assets/shanghai.jpg",
+    "alt": "Shanghai — photographie documentaire",
+    "author": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Huangpu_Park_20124-Shanghai_(32208802494).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg",
+    "changes": "Redimensionnement et compression JPEG ; recadrage éventuel par l’interface."
+  },
+  "The Bund": {
+    "file": "assets/the-bund.jpg",
+    "alt": "The Bund — photographie documentaire",
+    "author": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Bund_2.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/The_Bund_2.jpg",
+    "changes": "Redimensionnement et compression JPEG ; recadrage éventuel par l’interface."
+  },
+  "Jing’an Temple": {
+    "file": "assets/jing-an-temple.jpg",
+    "alt": "Jing'an Temple — photographie documentaire",
+    "author": "Legolas1024",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E9%9D%99%E5%AE%89%E5%AF%BA%C2%B7%E4%B8%8A%E6%B5%B7%E9%9D%99%E5%AE%89.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/%E9%9D%99%E5%AE%89%E5%AF%BA%C2%B7%E4%B8%8A%E6%B5%B7%E9%9D%99%E5%AE%89.jpg",
+    "changes": "Redimensionnement et compression JPEG ; recadrage éventuel par l’interface."
+  },
+  "Wukang Mansion": {
+    "file": "assets/wukang-mansion.jpg",
+    "alt": "Wukang Mansion — photographie documentaire",
+    "author": "Supanut Arunoprayote",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wukang_Mansion_20251128.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Wukang_Mansion_20251128.jpg",
+    "changes": "Redimensionnement et compression JPEG ; recadrage éventuel par l’interface."
+  },
+  "Xintiandi": {
+    "file": "assets/xintiandi.jpg",
+    "alt": "Xintiandi — photographie documentaire",
+    "author": "ヌンヌン",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Xintiandi5.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Xintiandi5.jpg",
+    "changes": "Redimensionnement et compression JPEG ; recadrage éventuel par l’interface."
+  },
+  "Oriental Pearl Tower": {
+    "file": "assets/oriental-pearl-tower.jpg",
+    "alt": "Oriental Pearl Tower — photographie documentaire",
+    "author": "Supanut Arunoprayote",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oriental_Pearl_Tower_20251126.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Oriental_Pearl_Tower_20251126.jpg",
+    "changes": "Redimensionnement et compression JPEG ; recadrage éventuel par l’interface."
+  },
+  "Shanghai Tower": {
+    "file": "assets/shanghai-tower.jpg",
+    "alt": "Shanghai Tower — photographie documentaire",
+    "author": "Balon Greyjoy",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:20191114_Shanghai_Tower_(2).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/20191114_Shanghai_Tower_%282%29.jpg",
+    "changes": "Redimensionnement et compression JPEG ; recadrage éventuel par l’interface."
+  },
+  "Jade Buddha Temple": {
+    "file": "assets/jade-buddha-temple.jpg",
+    "alt": "Jade Buddha Temple — photographie documentaire",
+    "author": "Chainwit.",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:(2024)_Mahavira_Hall,_Jade_Buddha_Temple,_Shanghai_-_img_04.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/%282024%29_Mahavira_Hall%2C_Jade_Buddha_Temple%2C_Shanghai_-_img_04.jpg",
+    "changes": "Redimensionnement et compression JPEG ; recadrage éventuel par l’interface."
+  },
+  "Yuyuan Bazaar": {
+    "file": "assets/yuyuan-bazaar.jpg",
+    "alt": "Pavillon Huxinting et bassin du bazar Yuyuan ; extérieur du jardin historique",
+    "author": "Stefan Fussan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_-_Yu_Garden_-_0035.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/45/Shanghai_-_Yu_Garden_-_0035.jpg",
+    "changes": "Redimensionnement et compression JPEG ; recadrage éventuel par l’interface."
+  }
+}
